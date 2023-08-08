@@ -9,4 +9,4 @@
 
 ## To install
 
-Run `git clone https://github.com/....git` to grab this project from github
+Run `git clone https://github.com/matthewjenifer/rdi-mini-player.git` to grab this project from github
